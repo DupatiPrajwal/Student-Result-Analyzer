@@ -1,0 +1,24 @@
+enter name of the student :Mike
+enter roll number of the student :11
+enter marks of English/100 :92
+enter marks of Maths/100 :83
+enter marks of Physics/100 :87
+enter marks of Chemistry/100 :88
+enter marks of Computer Science/100 :99
+Stu_total : 449
+Stu_percentage : 89.8
+Distinction
+Grade : A
+enter 1 to add another student, 0 to exit :1
+enter name of the student :Dustin
+enter roll number of the student :10
+enter marks of English/100 :93
+enter marks of Maths/100 :99
+enter marks of Physics/100 :99
+enter marks of Chemistry/100 :99
+enter marks of Computer Science/100 :99
+Stu_total : 489
+Stu_percentage : 97.8
+Distinction
+Grade : +A
+enter 1 to add another student, 0 to exit :0
